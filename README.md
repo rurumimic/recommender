@@ -9,7 +9,22 @@
 
 ### Book
 
-- [Recommender Systems](https://link.springer.com/book/10.1007/978-3-319-29659-3) by Charu C. Aggarwal
+#### Recommender Systems
+
+[Recommender Systems](https://link.springer.com/book/10.1007/978-3-319-29659-3) by Charu C. Aggarwal
+
+- Neighborhood-Based Collaborative Filtering
+- Model-Based Collaborative Filtering
+- Content-Based Recommender Systems
+- Knowledge-Based Recommender Systems
+- Ensemble-Based and Hybrid Recommender Systems
+- Evaluating Recommender Systems
+- Context-Sensitive Recommender Systems
+- Time- and Location-Sensitive Recommender Systems
+- Structural Recommendations in Networks
+- Social and Trust-Centric Recommender Systems
+- Attack-Resistant Recommender Systems
+- Advanced Topics in Recommender Systems
 
 ### GitHub
 
